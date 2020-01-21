@@ -1,6 +1,6 @@
 {
   "name": "@nicknailers/image-manager",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "small npm library relying on sharp.js to make your task easier optimizing and manipulating images",
   "main": "src/index.js",
   "scripts": {
