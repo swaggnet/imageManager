@@ -135,4 +135,4 @@ class ImageManager {
 
 }
 
-const IM = new ImageManager();
+module.exports = ImageManager;
