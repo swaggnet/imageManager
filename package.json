@@ -1,7 +1,7 @@
 {
   "name": "@nicknailers/image-manager",
-  "version": "1.0.2",
-  "description": "small npm library relying on sharp.js to make your task easier optimizing and manipulating images",
+  "version": "1.0.4",
+  "description": "small npm library relying on sharp.js to make your task easier optimizing manipulating and decentralizing (ipfs) images",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,6 +27,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "file-type": "^13.1.1",
+    "ipfs": "^0.40.0",
     "request": "^2.88.0",
     "sharp": "^0.24.0",
     "uuid": "^3.4.0"

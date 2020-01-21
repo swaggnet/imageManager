@@ -1,0 +1,1 @@
+const IPFS = require('ipfs');
