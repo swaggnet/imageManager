@@ -1,5 +1,5 @@
 {
-  "name": "@swaggnet/image-manager",
+  "name": "@nicknailers/image-manager",
   "version": "1.0.0",
   "description": "small npm library relying on sharp.js to make your task easier optimizing and manipulating images",
   "main": "src/index.js",
