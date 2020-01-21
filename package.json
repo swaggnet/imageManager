@@ -1,0 +1,34 @@
+{
+  "name": "@swaggnet/image-manager",
+  "version": "1.0.0",
+  "description": "small npm library relying on sharp.js to make your task easier optimizing and manipulating images",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "manipulation",
+    "image",
+    "library",
+    "swaggitnet",
+    "modules",
+    "image",
+    "resizing",
+    "image",
+    "download",
+    "webp",
+    "jpeg",
+    "png",
+    "jpg"
+  ],
+  "author": "Nicolas Cloutier",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "file-type": "^13.1.1",
+    "request": "^2.88.0",
+    "sharp": "^0.24.0",
+    "uuid": "^3.4.0"
+  }
+}
