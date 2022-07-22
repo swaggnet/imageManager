@@ -26,7 +26,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "file-type": "^13.1.1",
+    "file-type": "^16.5.4",
     "ipfs": "^0.40.0",
     "request": "^2.88.0",
     "sharp": "^0.24.0",
